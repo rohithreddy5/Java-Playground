@@ -1,0 +1,20 @@
+Write a Java Program to print all the divisors of the number N in the array given by the user.
+hint:
+   Read the size of the array
+   Read the array elements 
+   Read number N
+   Print all the divisors of the number N present in the array.
+
+
+input1:
+6      //size of the array
+1
+4
+3
+64
+44
+36    //array elements
+4     //N
+
+output1:
+4 64 44 36
